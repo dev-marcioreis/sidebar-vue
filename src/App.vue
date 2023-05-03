@@ -1,8 +1,6 @@
-<script setup>
-
-</script>
-
 <template>
-  <h1>Em desenvolvimento...</h1>
+  <div class="app">
+    <router-view />
+  </div>
 </template>
 
