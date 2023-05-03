@@ -7,7 +7,7 @@ Este será um menu lateral.
 ## 🚀 Em desenvolvimento...
 
 ## 📋 Tecnologias
-VueJS + Vite + 
+VueJS + Vite + Material Icons + SASS + Vue router
 
 ## ✒️ Autor
 Márcio Reis
