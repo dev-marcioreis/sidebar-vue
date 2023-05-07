@@ -2,7 +2,8 @@
 
 ---
 
-Este será um menu lateral.
+Este será um menu lateral.<br>
+Por falta de tempo, este projeto está parado.
 
 ## 🚀 Em desenvolvimento...
 
