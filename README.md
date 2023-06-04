@@ -4,7 +4,7 @@
 
 Este será um menu lateral.
 
-## 🚀 Em desenvolvimento...
+## 🚀 Finalizado!
 
 ## 📋 Tecnologias
 VueJS + Vite + Material Icons + SASS
@@ -15,4 +15,4 @@ Márcio Reis
 😊 Link de acesso: https://dev-marcioreis.github.io/sidebar-vue/
 
 ---
-![image](https://user-images.githubusercontent.com/122680054/235357366-88ddcf53-2631-4e2c-b633-6f4f373f02eb.png)
+![image](https://github.com/dev-marcioreis/sidebar-vue/assets/122680054/00d8fa77-7e83-4462-8132-3da668ea906f)
