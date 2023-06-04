@@ -5,7 +5,7 @@ const router = createRouter({
     history: createWebHistory(),
     routes: [
         {
-            path: '/sidebar-vue/',
+            path: '/',
             component: Home
         },
         {
