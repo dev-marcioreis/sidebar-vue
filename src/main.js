@@ -9,11 +9,11 @@ const router = createRouter({
     history: createWebHistory(),
     routes: [
         {
-            path: '/',
+            path: '/sidebar-vue/',
             component: Home
         },
         {
-            path: '/about',
+            path: '/sidebar-vue/about',
             component: () => import('./views/About.vue')
         }
     ]
