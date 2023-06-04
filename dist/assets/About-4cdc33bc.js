@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as t,a as e}from"./index-eea84f3a.js";const c={},n={class:"about-section"},_=e("h1",null,"Sobre",-1),a=e("p",null,"Página sobre o site...",-1),r=[_,a];function i(l,d){return s(),t("main",n,r)}const f=o(c,[["render",i]]);export{f as default};
