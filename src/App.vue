@@ -31,9 +31,8 @@
        :root {
 
         --primary-color: hsl(347, 100%, 71%);
-        --grey-color: hsl(215, 16%, 47%);
         --dark-color: hsl(0, 0%, 13%);
-        --dark-black: hsl(240, 5%, 7%);
+        --black-color: hsl(0, 0%, 0%);
         --light-color: hsl(210, 40%, 96%);
         
         --sidebar-w: 300px;
