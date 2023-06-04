@@ -77,7 +77,7 @@
         box-shadow: var(--shadow-1);
 
         .flex-menu {
-            flex: 1 1 0;
+            margin-block-start: 6rem;
         }
 
         .logo {
