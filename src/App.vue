@@ -30,12 +30,16 @@
     /*==========Root==========*/
        :root {
 
-        --primary-color: hsl(142, 69%, 58%);
+        --primary-color: hsl(347, 100%, 71%);
         --grey-color: hsl(215, 16%, 47%);
-        --dark-color: hsl(217, 33%, 17%);
-        --dark-alt: hsl(215, 25%, 27%);
+        --dark-color: hsl(0, 0%, 13%);
+        --dark-black: hsl(240, 5%, 7%);
         --light-color: hsl(210, 40%, 96%);
+        
         --sidebar-w: 300px;
+        --transition: all 400ms ease-in-out;
+        --shadow: 0px 1px 3px hsla(0, 0%, 0%, 0.5);
+        --shadow-1: 0px 3px 6px hsla(0, 0%, 0%, 0.4);
 
        }
 
