@@ -2,7 +2,7 @@
 
 ---
 
-Este será um menu lateral.
+Este é um menu lateral.
 
 ## 🚀 Finalizado!
 
